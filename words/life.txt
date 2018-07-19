@@ -1,3 +1,79 @@
 abalone
 accelerator
+acid blue
+aftershave
+agar
+agar-agar
+air bag
+air conditioner
+air conditioning
+airline
+airplane
+airsickness bag
+alley
+almond
+almond junket
+aluminum foil
+ankle boot
+anorak
+antistatic
+apartment building
+aperitif
+apricot
+apron
+armrest
+artichoke
+asparagus
+athletic supporter
+auburn
+azure
+backpack
+backseat
+backyard
+bagel
+baggage claim area
+ballerina
+bamboo shoots
+banana
+barbecue grill
+barrette
+baseball cap
+bath mat
+bathing suit
+bathrobe
+bathtub
+battery
+beads
+bean sprout
+bean sprouts
+bed frame
+bed lamp
+bedspread
+beef tripe
+beet
+belt
+belt buckle
+betelnut
+beverage cart
+bicycle pump
+bitter gourd
+black bean
+black coffee
+black pudding
+black tea
+bleach
+blinds
+blouse
+blue cheese
+blush
+boarding card
+boarding pass
+bobby pin
+body lotion
+bookcase
+boots
+bow tie
+bowler hat
+box spring
+boxer shorts
 
