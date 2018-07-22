@@ -1085,6 +1085,15 @@ disaster
 discard
 discharge
 discipline
+disclose
+discourage
+discover
+discovery
+discuss
+discussion
+disease
+disguise
+disgust
 
 
 
