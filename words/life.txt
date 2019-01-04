@@ -76,4 +76,414 @@ bow tie
 bowler hat
 box spring
 boxer shorts
+boxers
+bra
+bracelet
+brake light
+brake pedal
+brandy
+breeches
+brie cheese
+briefs
+broccoli
+broiler
+brown rice
+brown sugar
+brussels sprouts
+bucket
+buckle
+buffet
+bumper
+bumper pad
+bunk bed
+bus stop
+button
+buttonhole
+cab
+cabinet
+caddy
+caesar salad
+cake flour
+cake mix
+camisole
+camper
+can opener
+candlestick
+cantaloupe
+canvas
+carambola
+caramel
+cardigan
+carmine
+carousel
+carp
+carrot
+carving knife
+cashew nuts
+casserole
+casserole dish
+catfish
+cauliflower
+caviar
+ceiling fan
+celery
+cereals
+cerulean blue
+chain
+champagne
+champignon
+change purse
+check-in counter
+checked
+cheddar cheese
+cheeseburger
+cherry
+chest of drawers
+chestnut
+chestnut brown
+chicken salad
+chicken soup
+chicken wings
+chilies
+chimney
+chinese prickly ash
+chlorella
+chopsticks
+chuck steak
+cigarette lighter
+cinnamon
+clam
+cleanser
+cloak
+clog
+closet
+clothesline
+clothespin
+club sandwich
+clutch
+coal black
+cockle
+cockpit
+coconut
+cod
+cod fillet
+cod roe
+coffee
+coffee pot
+coffee table
+coffeemaker
+colander
+cold cream
+cold wave
+coleslaw
+comb
+comforter
+compact
+conch
+condensed milk
+conductor
+confectionery
+conger
+control tower
+convertible
+cookie sheet
+coriander
+corned beef
+cornstarch
+cosmetics
+couch
+counter
+country of origin
+cover-up
+crab
+crab stick
+cradle
+crampons
+cream cheese
+creamer
+crib
+crisps
+crosswalk
+cucumber
+cuff
+curling iron
+currency exchange
+customs
+customs officer
+cutting board
+dashboard
+date
+declaration form
+deli
+dental floss
+deodorant
+destination country
+detachable collar
+detergent
+disembarkation
+dish
+dishwasher
+distilled water
+doorchain
+coorknob
+double boiler
+doughnut
+down jacket
+draft beer
+drain
+drape
+drawer
+dress coat
+dresser
+dressmaker
+dried fish
+driveway
+drumstick
+dryer
+duffle coat
+dump truck
+durian
+dustpan
+earmuffs
+eddo
+eel
+eggbeater
+eggplant
+electric cooker
+electric fan
+electric iron
+electric mixer
+embarkation
+emergency brake
+emery board
+emmental cheese
+end table
+engine
+escargot
+evening gown
+exhaust fan
+extra large
+eye mask
+eye shadow
+eyebrow pencil
+eyeliner
+face powder
+fare
+faucet
+feather duster
+ferry
+fig
+fire escape
+fire screen
+fish burger
+flat sheet
+flight attendant
+floor lamp
+floral
+flower pot
+food processor
+formal dress
+foundation
+french dressing
+fried chicken
+fringe
+front yard
+fruit salad
+frying pan
+fuel injection system
+furniture polish
+fuse box
+garage
+garbage disposal
+garlic
+garnet
+garter belt
+gas hose
+gas meter
+gas pedal
+gas pump
+gas tank
+gate
+gearshift
+ginger
+girdle
+gizzard
+glass cleaner
+glove compartment
+glutinous rice
+grape
+grapefruit
+grater
+green bean
+green pepper
+green salad
+ground beef
+guava
+gutter
+haddock
+hair conditioner
+hair dryer
+hair spray
+hairbrush
+haircutter
+hairdryer
+hairlace
+hairnet
+hairpiece
+hake
+half slip
+halibut
+hallway
+ham
+hamburger
+hammock
+hamper
+handbag
+handkerchief
+hanger
+headboard
+headlight
+heater
+hedge
+heel
+helicopter
+hemline
+henna
+herring
+high heels
+honeydew-melon
+hood
+hook and eye
+horn
+hose
+hubcap
+humidifier
+ice crusher
+iceberg lettuce
+icing sugar
+ignition
+instant coffee
+instant noodles
+intercom
+iron
+ironing board
+ivory white
+jack
+jack cheese
+jewelry
+jockstrap
+juice extractor
+jumper
+jumpsuit
+key chain
+kiwi
+knee-highs
+knickerbockers
+knife
+ladle
+lamb chop
+lampshade
+landlord
+lard
+large
+laundry
+laundry room
+laundry soap
+lawn
+lawn mower
+leek
+leggings
+lemon
+leotard
+lettuce
+license plate
+lichee
+light fixture
+light switch
+lilac
+lime
+lipstick
+loafers
+lobster
+lock
+locket
+longan
+loofah
+loquat
+love seat
+luggage carrier
+luggage cart
+luggage tag
+lychee
+macaroni
+mackerel
+madeira
+maltose
+mango
+mantel
+margarine
+marshmallow
+mascara
+mashed potato
+massager
+maternity dress
+mattress
+mayonnaise
+meatballs
+medicated soap
+medicine cabinet
+medium
+metal detector
+meter
+mineral water
+minivan
+mittens
+mixing bowl
+mobile home
+moisturizer
+monosodium glutamate
+mooli
+mousse
+mouthwash
+moving van
+mozzarella cheese
+muffin
+muffler
+mushroom
+muskmelon
+mussel
+mustard
+nail clipper
+nail polish
+nail polish remover
+napkin
+necklace
+needle
+night table
+nightgown
+nightshirt
+nozzle
+nursing home
+nylon stockings
+octopus
+off-white
+oil gauge
+okra
+olive green
+omelette
+onion
+onion ring
+orange
+orange brown
+outlet
+ovaltine
+oven
+overalls
+overcoat
+ox heart
+ox tail soup
+
+
+
+
 
