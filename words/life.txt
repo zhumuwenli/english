@@ -482,6 +482,154 @@ overalls
 overcoat
 ox heart
 ox tail soup
+ox tongue
+oxfords
+oxygen mask
+oyster
+oyster sauce
+paisley
+pajamas
+pan
+pancake
+pantyhose
+papaya
+paper towels
+paring knife
+parka
+parking space
+parmesan cheese
+parsley
+pasta
+pastrami
+pastries
+patio
+peach
+peach blossom
+peaked cap
+pear
+pearl white
+peas
+pedestrian bridge
+peephole
+pepper
+perfume
+permanent wave
+pernod
+persimmon
+pet food
+pickles
+pickup truck
+pillow
+pilot
+pin
+pin cushion
+pineapple
+pitch-black
+place mat
+place setting
+plaice
+plaid
+plain flour
+plastic wrap
+plate
+platform
+platter
+plum
+poached egg
+pocket tripe
+polo shirt
+poncho
+pork chop
+pork loin
+pork steak
+port
+porterhouse steak
+pot
+potato
+potato salad
+poultry
+powder puff
+prawn
+preserved meat
+pretzel
+prune
+pruning shears
+pumps
+purplish red
+purse
+radiator
+radio
+radish
+rag
+rain boots
+raincoat
+raisin
+rake
+rambutan
+ranch
+range hood
+raspberry
+razor
+rearview mirror
+recliner
+recreation room
+red bean
+red cabbage
+red date
+red pepper
+red wine
+relish
+ribbon
+ring
+roast beef
+rock sugar
+rocking chair
+roller skates
+rollers
+rolling pin
+rompers
+route
+rubber mat
+rug
+rump steak
+rust
+rye bread
+sago
+salad dressing
+salami
+salesclerk
+salmon
+salmon steak
+saltshaker
+sandals
+sarsaparilla
+saucepan
+saucer
+sausage
+scale
+scallion
+scallop
+scalp
+schedule
+scissors
+scrambled eggs
+screen door
+scrub brush
+sea bream
+sea cucumber
+sea weed
+seam
+seat belt
+seaweed
+security system
+
+
+
+
+
+
+
+
 
 
 
