@@ -622,6 +622,226 @@ seam
 seat belt
 seaweed
 security system
+semitrailer
+sequin
+sesame oil
+sesame paste
+sewing machine
+shaddock
+shampoo
+shawl
+shelter
+shepherd's pie
+shock
+shoelace
+shoulder bag
+shoulder harness
+shoulder pad
+shovel
+shower cap
+showerhead
+shrimp
+shutter
+sidewalk
+silver grey
+sink
+sirloin
+sky blue
+skycap
+slacks
+sleeve
+slippers
+small
+smoke detector
+smoked bacon
+smoked herring
+snacks
+soap dish
+soap powder
+socks
+soda water
+sole
+soup spoon
+soy sauce
+spaghetti
+spare tire
+spatula
+spin-drier
+spinach
+split skirt
+sponge
+sports car
+spring onions
+squash
+squeegee
+squid
+star anise
+star fruit
+station wagon
+steamer
+steering wheel
+stepladder
+stereo system
+stick shift
+stockings
+stool
+storage locker
+storm door
+stout beer
+stove
+strainer
+strawberry
+string beans
+striped
+strong flour
+stuffed animal
+subcompact
+submarine sandwich
+suburbs
+subway
+sugar bowl
+sundae
+sunglasses
+sunny side up
+sunscreen
+suspenders
+sweatpants
+sweatshirt
+sweet corn
+sweet potato
+swimming trunks
+swimsuit
+syrup
+table cloth 
+taco
+taillight
+tailor
+tails
+tangerine
+tank top
+tape deck
+tape measure
+taro
+tarragon
+tea set 
+tea tray
+teakettle
+temperature gauge
+tenant
+tennis shoes
+terminal
+thick soup
+thigh
+thimble
+thousand island dressing
+tie 
+tights
+tile
+tire
+toaster
+tofu
+toilet soap
+toiletries
+tomato
+tong
+toothbursh
+toothpaste
+toothpick
+top hat
+tote bag
+tow truck
+towel rack
+townhouse
+track
+tractor trailer
+trailer
+train station
+transfer
+trash bag
+trash bin
+trash chute
+tray
+tray table
+trench coat
+trim
+tripe
+trout
+trowel
+trunk
+tuna
+tuna sandwich
+tunic
+turbulence
+turn signal
+turnip
+turnstile
+turtleneck
+tuxedo
+twinset
+umber
+underpants
+undershirt
+uniform
+vacuum cleaner
+vanishing cream
+vegetable salad
+vegetable soup
+vermeil
+vest
+vinegar
+violet
+vodka
+waffles
+waistband
+wall paper
+wall unit
+wallet
+washer
+washing machine
+water caltrop
+water chestnuts
+watercress
+watering can
+wave
+wheelbarrow
+whisk
+whisky
+white cabbage
+white coffee
+white gourd
+white wine
+whole wheat flour
+windbreaker
+window shade
+windshield
+windshield wipers
+winkles
+wrist watch
+yam
+zipper
+zucchini
+
+
+
+
+
+three-piece
+salmon
+panties
+briefs
+sponge gourd
+towel gourd
+medium size
+intermediate
+schoolbag
+satchel
+bookcase
+hair in a mess
+streaky pork
+marbled meat
+passenger foot-bridge
+
+
 
 
 
