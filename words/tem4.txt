@@ -1444,6 +1444,37 @@ dioxide
 dip
 diploma
 diplomacy
+diplomat
+diplomatic
+directly
+directory
+disadvantaged
+disagreeable
+disagreement
+disappointing
+disappointment
+disapproval
+disapprove
+disarm
+disarmament
+disaster
+disastrous
+disc
+discard
+discern
+discharge
+disciple
+disciplinary
+discipline
+disclose
+disclosure
+discontent
+discord
+discount
+discourage
+discourse
+discrepancy
+discretion
 
 
 
