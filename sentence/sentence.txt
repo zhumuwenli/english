@@ -705,21 +705,324 @@ The dean wants to meet my parents.
 # lesson 42 IN THE LIBRARY
 Are these the books you're checking out?
 When are they due back?
+It seems you still have a book overdue.
+You can have them for one month.
+It's $0.5 a day for overdue books.
+Do you have any books on Russia?
+You're not supposed to talk in the library.
+Is the photocopier working?
+That book is on reserve for a professor.
+We only have one copy of that book.
+She is very popular author.
+This library needs to get some more up-to-date books.
+Where are the math books located?
+What time does the library close today?
+I hate when people write in library books.
 
+# lesson 43 AT THE PARTY
+I'm really having a good time.
+It's too crowded to push my way through to the kitchen.
+Do you know anybody at this party?
+I'm going to have some fun while I'm here.
+Why don't we stay for about half an hour to see if anyone else arrives?
+I think we are out of beer.
+Did anyone invite that guy?
+These parties are always so popular.
+There are too many older students here tonight.
+Should I go talk to that girl over there?
+Can you tell me where the bathroom is?
+I think some people are leaving to go to another parth.
+You should slow down with the drinking.
+I'm tired, so I'm going home.
+It's always the same faces at these parties.
 
+#lesson 44 AT THE CINEMA
+I guess this is a really popular movie.
+Are there any movies you want to see in case this one is sold out?
+We've got a few minutes before the start of the movie.
+That movie was too scary.
+There's one out now about a talking house.
+I think my seat is near the aisle.
+This theater is packed tonight.
+The film is sold out for tonight.
+What time does the show start?
+Let's go find our seats.
+The plot wasn't very realistic.
+The director seemed to rely mostly on special effects.
+This movie is based on a true story.
+I think this scene was filmed in my hometown.
+Can you believe how much a bag of popcorn costs at this theater?
 
+# lesson 45 AT THE HOSPITAL
+He has an injured leg.
+The doctor's seeing him at this time.
+Do you knowing anything about his condition?
+I thought it might be more serious.
+Your mother is now in stable condition.
+Which hand is bothering you?
+How long has it been swollen like that?
+Can you roll up your sleeve for me to have a look?
+Do you have any insurance?
+Do you have a history of heart trouble?
+We have no spare beds right now.
+The pain is mostly in my lower back.
+Does it hurt when I do this?
+I'll write you a prescription
+You should take it easy on that leg for a few weeks.
 
+# lesson 46 AT THE POST OFFICE
+It's not very exciting to wait in line at the post office.
+I've got to mail this stuff for my boss.
+It's just a letter to my mother.
+I need to have this package air mailed.
+I've been expecting a package that should have been here two weeks ago.
+How much more does express mail cost?
+Can I get insurance on this package?
+I need to change my mailing address.
+This package weights 11 ounces.
+That's the box of out-of-town mail.
+How much for a boof of stamps?
+Can I get a postcard here?
+Is there a supervisor that I can speak with?
+I like these new stamps.
+Can I apply for a passport here?
+You need to sign for this package.
 
+# lesson 47 AT THE BANK
+Is this the right place to open up an account?
+I need to start a bank account.
+Will this be a checking or savings account?
+I'm told that I have insufficient funds.
+What are your home loan interest rates?
+Can you help me finance a car?
+What's my current balance?
+My ATM card has stopped working.
+You don't need a passport for routine business.
+I can't remember my account number.
+Is there a minimum balance needed for an account?
+I want traveler's checks.
+I have a joint account with my wife.
+Can I have a receipt for this?
+Your account is overdrawn.
 
+# lesson 48 AT THE RESTAURANT
+This soup is incredible! Have you tried it yet?
+I was trying to decide what to order.
+I'm going to have the steak.
+I've never had fried chickent this good before.
+How do you want your steak cooked?
+This chicken is undercooked.
+My compliment to the chef.
+Are you ready to order?
+What's your special today?
+Would you like any more coffee?
+Do you have reservations tonight?
+Would you like a smoking or non-smoking table?
+Can I look at a menu?
+Would you like any dessert?
+What's the soup of the day?
 
+# lesson 49 IN THE BARBER'S AND HAIRDRESSER'S
+I think I just need a trim.
+And would you like a quick shampoo and rinse?
+You can never be too careful with a customer's hair.
+Just a little trim on the top and shave it close on the sides.
+Something new would be nice.
+Do you want a littel off the top?
+Should I trper the back?
+How about a shampoo?
+How do you want you hair cut?
+I'll try to fix the side.
+Do you want a perm?
+I don't need a shave.
+That's too short in the back.
+I have a hair in my eye.
+Just comb the hair back a little.
 
+# lesson 50 AT THE POLICE STATION
+My client has make some very convincing allegations of police brutality.
+He claims that your officers assaulted him.
+Do you have any proof of these claims?
+You'll be hearing from me soon.
+I need to file a missing person's report.
+Arrests have declined this month.
+Can you identify the suspect?
+He resisted arrest violently.
+I want to call my lawyer.
+We just have a few questions for you.
+The officer was very helpful to me.
+Are you sure the suspect fired more than once.
+That area is out of our jurisdiction.
+This is the busiest precinct in the city.
+I need your signature on this report.
 
+# lesson 51 AT THE HOTEL
+Welcome to the Confort Hotel.
+I just need a room for two.
+Do you have any vacancies?
+One double bed will be fine.
+Would you like a discount on your room charge?
+I'm like a wake-up call.
+Would you like some help with your bags?
+We don't allow pets in our rooms.
+Fresh towels are in the bathroom.
+Room service canbe called at the front desk.
+Do you want a single or double bed?
+The elevator is at the end of the hall.
+Outside calls will be added to your bill.
+I don't have any hot water in my room.
+I need a taxi to the airport.
 
+# lesson 52 AT THE OFFICE
+Please have a seat.
+How do you feel about working on weekends?
+The yacht market is slow this time of the year.
+You haven't make a single sale in the past 3 weeks.
+I'll try to help you make a dent in some of that work.
+How does this fax machine work?
+Is the repairman coming to fix the photocopier?
+I'm going on a break to get some coffee.
+These accounts need to be paid immediately.
+I heard there're going to lay off some people this quarter.
+Sales have gone way up this month.
+I left the paper on my desk.
+We need to cut costs somewhere in this office.
+Has the outgoing mail left for the day?
+Can someone answer that phone?
 
+# lesson 53 AT THE BUS STOP
+Do you know what bus leads to Memorial Stadium?
+There should be a bus stop right at the stadium.
+Do you know what bus is going to the theater?
+It's about 3 stops from here, maybe 15 minutes.
+This says the last bus leaves at 9:45.
+Our bus is late.
+That bus is too crowded to board.
+Can you read the bus schedule on that sign?
+The benches are too wet to sit on.
+That bus needs some new brakes.
+The exhaust fumes are choking me.
+How much is the fare for the bus.
+There are no seats left on the bus.
+Can you give me change for the bus?
+Is this bus going uptown?
 
+# lesson 54 AT THE AIRPORT
+Thank you for flying with Skyway Airlines.
+May I see your ticket, please?
+My shoulder bag is carry-on luggage.
+Boarding will begin in about 30 minutes.
+When does your flight land?
+What terminal am I leaving from?
+The security check is going to take a while.
+I hope the X-ray machine doesn't damage my film.
+Don't even joke about having a bomb or a gun.
+This is going to be a long flight.
+The arrival time has been delayed due to bad weather.
+That bag is too heavy to be carry-on luggage.
+Where is the baggage claim area?
+This is your boarding pass.
+May I see your passport?
 
+# lesson 55 AT THE RAILWAY STATION
+It should be here in the next two or three minutes.
+It's just getting on my nerves.
+When does the next train leave for New Orleans?
+I've got kind of a problem.
+There are Tri-State Rail System trains leaving every half hour for the city.
+This is a new section of railroad track.
+The Northeast corridor is the busiest section of the country of the country for train travel.
+That's the last call to board the train.
+I think I hear the train coming.
+I hope I get a window seat.
+Why do these trains always leave at the end of the day?
+I bought my tickets over the phone.
+I want to buy a ticket for Denver to Los Angeles.
+Have you seen our conductor?
+I'm going to get a drink from the dining car.
 
+# lesson 56 AT THE DISNEY THEME PARK
+He's not as common around here as Mickey Mouse.
+My favorite character was Donald Duck.
+He seemed like a regular guy.
+What do you want to see next?
+It sounds like you prefer old movies in general.
+Let's go see Space Mountain.
+That roller coaster terrified me.
+Do you see Goofy?
+I don't want to go to the gift shop and spend more money.
+I remember coming here when I was a little kid.
+We spent the past hour at Main Street USA.
+I think Disney World is too much of a tourist trap.
+Did you know they just opened a Disney World in Japan?
+I heard they might open another in China.
+I'm staying at the hotel at Epcot Center.
 
+# lesson 57 AT THE GYM
+Don't you look at yourself in the mirror too?
+They must work out all the time.
+Why do you go to the gym so much?
+It's good for me to be healthy.
+It's never good to put such a high value on appearances.
+My muscles feel numb.
+I can't move a muscle.
+I'm exhausted.
+I'm going to spend a few more minutes on the exercise bike.
+It's too crowded in the gym at night.
+Someone needs to fix the leg press machine.
+I'm going to relax in the sauna.
+How much more exercises do you have to do?
+How often do you work out?
+He's a firefighter, so he has to exercise often.
 
+# lesson 58 PLAYING SPORTS
+I have to take a break for a second.
+When I was running, I twisted my ankle.
+Just don't neglect an injury.
+That was a good game we played.
+We're in the middle of a game.
+He's playing too rough.
+We can still win this game.
+We need to start palying hard.
+You guys are getting lazy.
+That referee is blind.
+I can't believe I dropped that pass.
+If it keeps rainning, we'll have to stop the game.
+I think he was out of bounds.
+That goal was pure luck.
+Who has the ball?
+
+# lesson 59 AT THE BOOKSHOP
+I'm just looking for your travel section.
+Is there a specific book you're looking for?
+I wanted to see what books you had about that.
+This book is very popular right now with little boys.
+This is a classic.
+I want to return this book.
+Can you gift-wrap this book?
+We'll call you when your book comes in.
+My friend helped write this book.
+I've read good reviews about that novel.
+It's hard to find a good book about the Chinese languages.
+Do you have any road atlases?
+Why is this book in the psychology section?
+Do you have the first edition of this book?
+They have some foreign magazines here.
+
+# lesson 60 AT HOME
+You're always on the phone with your mom for hours.
+I'm not dressed.
+I need you to do me one more favor.
+It's becoming really messy in there.
+It's your turn to cut the grass.
+I'll take the dog out for a walk.
+You need to clean the floor this afternoon.
+The refrigerator light isn't working.
+We're almost out of toothpaste.
+I just want to relax and watch TV after work.
+What's for dinner tonight?
+I spent most of the afternoon taking a nap.
+Your parents are coming over for dinner tomorrow.
+Have you met our new neighbors across the street?
 
 
